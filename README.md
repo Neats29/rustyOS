@@ -12,3 +12,6 @@ This is a piece of code that runs before the operating system is run. "The bootl
 
 ### Multiboot:
 Multiboot is the specification for writing bootloaders, I think of it as the W3C of operating systems.
+
+###nasm:
+This is an assembler program to assemble (compile) assembly code into binary code.
