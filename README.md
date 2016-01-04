@@ -9,3 +9,6 @@ This is the main part of the operating system, excluding the userland. "A kernel
 
 ###Bootloader:
 This is a piece of code that runs before the operating system is run. "The bootloader’s job is to take our kernel, put it into memory, and then transition control to it."
+
+### Multiboot:
+Multiboot is the specification for writing bootloaders, I think of it as the W3C of operating systems.
